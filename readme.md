@@ -1,4 +1,4 @@
-# ERRORS Encountered
+﻿# ERRORS Encountered
 
 1. Do not request Window.FEATURE_ACTION_BAR and set android:windowActionBar to false in your theme to use a Toolbar instead.
     - [Tutoral](https://developer.xamarin.com/guides/android/user_interface/controls/tool-bar/part-1-replacing-the-action-bar/)
@@ -27,4 +27,12 @@ APP CRASH ERROR AFTER PUBLISH
 Severity	Code	Description	Project	File	Line	Suppression State
 Error		2: error: Error: Float types not allowed (at 'versionCode' with value '1.1').	App5	C:\Users\Kabue\source\repos\App5\App5\obj\Release\android\manifest\AndroidManifest.xml		
 - https://forums.xamarin.com/discussion/49075/android-app-versioning
+
+
+Xamarin.Android Support Andoid 4.0 (API 14) and above
+- https://stackoverflow.com/q/47983875/3563013
+- https://stackoverflow.com/a/40195191/3563013
+- https://forums.xamarin.com/discussion/48814/android-api-14-installed-but-missing
+- https://forums.xamarin.com/discussion/35951/xamarin-android-requiring-api-14
+
 
